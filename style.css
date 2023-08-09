@@ -121,12 +121,6 @@ input{
     color: hsl(224, 23%, 55%);
     font: 900;
 }
-/* @media(max-width:425px){
-.card{
-    width: 22rem;
-    height: 70%;
-}
-} */
 @media(max-width:1920px){
 .card {
         width: 22rem;
